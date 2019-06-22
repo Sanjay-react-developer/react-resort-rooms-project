@@ -245,12 +245,7 @@ h6 {
   grid-row-gap: 2rem;
   grid-column-gap: 50px;
 }
-.service{
-  background-color: white;
-  padding: 25px;
-  border:2px solid  grey;
-  
-}
+
 .service span {
   display: inline-block;
   color: var(--primaryColor);
